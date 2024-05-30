@@ -4,6 +4,34 @@
 
 <img width="506" alt="image" src="https://github.com/Algorithm-Arena/weekly-challenge-19-falling-breakout/assets/197597/f0d9c14b-66f8-4ad2-81ba-d7017af32b5a">
 
+### Winner:
+
+* The winner for $150 is @michael-azogu! The game combines tetris and breakout and is super fun to play. My high score is 570, go try and beat it ;) https://github.com/Algorithm-Arena/weekly-challenge-19-falling-breakout/issues/2
+
+
+
+https://github.com/Algorithm-Arena/weekly-challenge-19-falling-breakout/assets/197597/ed957f67-9db7-44a5-8b9d-c6d535af28f9
+
+
+
+* In second place with $100 are @nikpundik! When you break a brick, it starts falling down and damages your launchpad. This removes all the downtime while the ball is in the air! https://github.com/Algorithm-Arena/weekly-challenge-19-falling-breakout/issues/1
+
+
+https://github.com/Algorithm-Arena/weekly-challenge-19-falling-breakout/assets/197597/b79f9596-047b-4940-b2db-2d557f30c458
+
+
+* In third place for $80 is @Uzo2005! Every few seconds there's another row of bricks that come down, this makes it a lot more challenging to complete the game. https://github.com/Algorithm-Arena/weekly-challenge-19-falling-breakout/issues/3
+
+
+https://github.com/Algorithm-Arena/weekly-challenge-19-falling-breakout/assets/197597/8a937b0e-9f1e-48e4-99b8-c96c8d4f99ff
+
+
+* Honorable mention for @nicogs who has been nerd sniped and built a reinforcement learning algorithm to play breakout. Took 18 epochs to finish a level :) https://www.threads.net/@nicogs/post/C7kGTstt-Tf
+
+
+https://github.com/Algorithm-Arena/weekly-challenge-19-falling-breakout/assets/197597/5b74fa59-9a8f-4131-aed2-330ad69a6fc1
+
+
 ### Prizes:
 * Winner: $150
 * 2nd: $100
